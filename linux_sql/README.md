@@ -1,7 +1,4 @@
 # Linux Cluster Monitoring Agent
-This project is under development. Since this project follows the GitFlow, the final work will be merged to the main branch after Team Code Team.
-EOF
-
 
 ## Introduction
 
@@ -67,10 +64,13 @@ crontab -e
 
 # Implemenation
 
-Implementation of the LCA project has been incorporated in the Linux environment with CentOS 7 distribution. The objective of this project is to create a software product used for hardware-usage monitoring of Linux Clusters.   
-Project started off with the Docker Installation and Postgres:Alpine-9.6 image used for creating a Docker container running the instance of PostgresSQL DB. We now proceed to install psql CLI tool used to connect and manipulate the DB with hardware statistics.
+Implementation of the LCA project has been incorporated in the Linux environment with CentOS 7 distribution. The objective of this project is to create a software product used for hardware-usage monitoring of Linux Clusters.
+
+Project started off with the Docker Installation and Postgres:Alpine-9.6 image used for creating a Docker container running the instance of PostgresSQL DB. We now proceed to install psql CLI tool used to connect and manipulate the DB with hardware statistics.  
+
 To incorporate the seamless monitoring of hardware metric data, we created two bash scripts ```host_info.sh``` and ```host_usage.sh```. The ```host_info.sh``` will run only once to capture the hardware specification which are constants like ```cpu_model```, ```cpu_number```, ```total_mem``` and more and stores it in the host_info table. 
 Whereas the ```host_usage.sh``` runs every minute capturing the real-time hardware usage like ```memory_free```, ```cpu_idle```, ```cpu_kernel``` and stores it in the host_usage table because we configured a crontab that executes this ```host_usage.sh``` every minute.  
+
 With the help of technology like Docker, Bash Scripting and PostgresSQL Database, we have successfully developed an efficient, we can easily and efficiently monitor a cluster of Linux Environment which is essential for testing and DevOps purposes.  
 
 ## Architecture
