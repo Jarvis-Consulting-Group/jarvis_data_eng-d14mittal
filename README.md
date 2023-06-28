@@ -4,9 +4,9 @@ Software Developer with 2+ years of work experience leveraging industry experien
 
 ## Skills
 
-**Proficient:** Java, Spring Boot, Linux/Bash, MySQL/SQL, Agile/Scrum, Git, Spring boot, HTML, CSS, Data Structures and Algorithms
+**Proficient:** Java, Spring Boot, Linux/Bash, MySQL/SQL, Agile/Scrum, Git, HTML, CSS, Data Structures and Algorithms
 
-**Competent:** gRPC framework, Maven build tool, Python, Web Services - REST APIs, Microservices and Distributed Systems, MongoDB, AWS
+**Competent:** JavaScript, Python, gRPC framework, Maven build tool, Web Services - REST APIs, Microservices and Distributed Systems, MongoDB, AWS
 
 **Familiar:** Kafka, React.js, Typescript, Jenkins, Kubernetes
 

@@ -74,9 +74,10 @@
   ],
   "skills": {
     "competent": [
+      "JavaScript",
+      "Python",
       "gRPC framework",
       "Maven build tool",
-      "Python",
       "Web Services - REST APIs",
       "Microservices and Distributed Systems",
       "MongoDB",
@@ -96,7 +97,6 @@
       "MySQL/SQL",
       "Agile/Scrum",
       "Git",
-      "Spring boot",
       "HTML",
       "CSS",
       "Data Structures and Algorithms"
