@@ -1,6 +1,6 @@
 # Linux Cluster Monitoring Agent
 
-## Introductio
+## Introduction
 
 LCA (Linux Cluster Administration) team has developed a Linux Cluster Monitoring application which can monitor useful information like hardware specifications and hardware usage data in real time. These include cpu, memory and disk usage related data.
 
