@@ -2,7 +2,6 @@
   "education": [
     {
       "awards_achievements": [
-        "Achieved A grade in final year project for Face Recognition System via Transfer Learning and Deep Learning Techniques",
         "GPA: 8.05/10"
       ],
       "degree": "Bachelor of Technology",
@@ -17,6 +16,11 @@
       "description": "Built a Back-end Micro-services Architecture retrieving a user's movie rating and movie info via API into consolidated data. Implemented service discovery and Microservice registry using Eureka for service registry and load balancers.",
       "git_url": "https://github.com/d14mittal/Movie-Ratings-Microservice-Application",
       "name": "Movie Catalog System with Microservices"
+    },
+    {
+      "description": "Developed a Full-Stack Application maintaining the record of employees in a particular company. The projects aims to Store vital information of an employee in a MySQL Database and allowing the user to interact with a User Interface built using React.js. The backend services/REST API have been handled using the Spring boot and Spring Data JPA framework.",
+      "git_url": "https://github.com/d14mittal/Employee-Management-System",
+      "name": "Employee Management System"
     }
   ],
   "jarvis_projects": [
@@ -47,7 +51,7 @@
       "bullets": [
         "Outdoors - Gym, Badminton",
         "Socializing and Networking",
-        "LeetCode Problem-Solving"
+        "Movies, TV Shows, Sci-Fi/Thriller/Action"
       ],
       "title": "Activities/Hobbies"
     }
@@ -55,8 +59,14 @@
   "professional_experience": [
     {
       "company": "Jarvis Consulting Group",
-      "description": "Built a Linux Cluster Monitoring Application used for collecting and monitoring the hardware-related data of virtual machines. Implemented the application with Bash Scripts, PostgreSQL and Docker.",
+      "description": "Built a Linux Cluster Monitoring Application used for collecting and monitoring the hardware-related data of virtual machines. Implemented the application with Bash Scripts, PostgreSQL and Docker. Automated the process of collecting the hardware data and inserting into database with bash scripting. Automated the collection of live hardware usage data into the database with the help of crontab configuration which runs the script every minute.",
       "duration": "2023-present",
+      "title": "Software Developer"
+    },
+    {
+      "company": "Technowiz IT Services",
+      "description": "Built an E-commerce App with 35% annual revenue growth following Agile development methodologies / Scrum processes. Developed highly scalable environment using Spring Cloud and AWS Lambda serverless reducing company expenses by 33%. Reduced 80% of bugs by troubleshooting, debugging, and designing efficient, reusable, and reliable code for performance.",
+      "duration": "2022-2023",
       "title": "Software Developer"
     },
     {
@@ -84,7 +94,7 @@
       "AWS"
     ],
     "familiar": [
-      "Kafka",
+      "High Level Designing and Software Architecture",
       "React.js",
       "Typescript",
       "Jenkins",
@@ -102,5 +112,5 @@
       "Data Structures and Algorithms"
     ]
   },
-  "summary": "Software Developer with 2+ years of work experience leveraging industry experience in Web Application and Software Development, delivering complex application systems and converting business requirements into technical solutions. The software industry is powerful as it can solve real-world problems and challenges which makes me passionate about technologies."
+  "summary": "Software Developer with 2+ years of work experience leveraging industry experience in Web Application and Software Development, delivering complex application systems and converting business requirements into technical solutions. I have a Bachelors Degree in Computer Science where I have covered fundamentals and advanced topics such as Data Structures, Database Management, Distributed Computing, Operating Systems, Algorithms and more. The software industry is powerful as it can solve real-world problems and challenges which makes me passionate about technology, innovation and creation."
 }

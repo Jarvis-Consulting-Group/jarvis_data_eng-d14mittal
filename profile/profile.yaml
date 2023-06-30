@@ -5,8 +5,8 @@ github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: Software Developer with 2+ years of work experience leveraging industry experience in Web Application and Software Development, delivering complex application systems and converting business requirements into technical solutions.
-  The software industry is powerful as it can solve real-world problems and challenges which makes me passionate about technologies.
+summary: Software Developer with 2+ years of work experience leveraging industry experience in Web Application and Software Development, delivering complex application systems and converting business requirements into technical solutions. I have a Bachelors Degree in Computer Science where I have covered fundamentals and advanced topics such as Data Structures, Database Management, Distributed Computing, Operating Systems, Algorithms and more.
+  The software industry is powerful as it can solve real-world problems and challenges which makes me passionate about technology, innovation and creation.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
@@ -34,7 +34,7 @@ skills:
     - AWS
   # At least 5 skills
   familiar:
-    - Kafka
+    - High Level Designing and Software Architecture
     - React.js
     - Typescript
     - Jenkins
@@ -58,6 +58,11 @@ highlighted_projects:
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: Built a Back-end Micro-services Architecture retrieving a user's movie rating and movie info via API into consolidated data. Implemented service discovery and Microservice registry using Eureka for service registry and load balancers.
 
+  - name: "Employee Management System"
+    #URL is optional
+    git_url: "https://github.com/d14mittal/Employee-Management-System"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Developed a Full-Stack Application maintaining the record of employees in a particular company. The projects aims to Store vital information of an employee in a MySQL Database and allowing the user to interact with a User Interface built using React.js. The backend services/REST API have been handled using the Spring boot and Spring Data JPA framework.
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
@@ -67,18 +72,26 @@ professional_experience:
     company: "Jarvis Consulting Group"
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Built a Linux Cluster Monitoring Application used for collecting and monitoring the hardware-related data of virtual machines. Implemented the application with Bash Scripts, PostgreSQL and Docker.
+    description: Built a Linux Cluster Monitoring Application used for collecting and monitoring the hardware-related data of virtual machines. Implemented the application with Bash Scripts, PostgreSQL and Docker. Automated the process of collecting the hardware data and inserting into database with bash scripting. Automated the collection of live hardware usage data into the database with the help of crontab configuration which runs the script every minute.
+
+  - title: "Software Developer"
+    company: "Technowiz IT Services"
+    duration: "2022-2023"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Built an E-commerce App with 35% annual revenue growth following Agile development methodologies / Scrum processes. Developed highly scalable environment using Spring Cloud and AWS Lambda serverless reducing company expenses by 33%. Reduced 80% of bugs by troubleshooting, debugging, and designing efficient, reusable, and reliable code for performance.
+
   - title: "Software Developer"
     company: "Wipro Limited"
     duration: "2021-2022"
     description: Delivered 5 Java Applications using gRPC for APM tools like AWS CloudWatch, Prometheus, Nagios XI, Splunk, and Zabbix. Data-driven decisions led 40% performance increment in the Zabbix application by implementing concurrency in the REST APIs. Achieved 90% code coverage in unit test and integration test of API services/functionalities in the Docker environment
+
   - title: "Developer Intern"
     company: "Neiv Technology Private Limited "
     duration: "2020-2020"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: Facilitated the development of a front-end user interface by demonstrating proficiency in HTML, CSS, and JavaScript. Attained responsive web designs, SEO and cross-platform compatibility for all types of mobile, tablet and desktop devices
 
-#List of edcuation
+#List of education
 education:
   - school_name: "VIT University, Vellore, India"
     duration: "2017-2021"
@@ -86,7 +99,6 @@ education:
     department: "Computer Science and Engineering"
     # optional
     awards_achievements:
-      - "Achieved A grade in final year project for Face Recognition System via Transfer Learning and Deep Learning Techniques"
       - "GPA: 8.05/10"
 
 
@@ -107,4 +119,4 @@ others:
     bullets:
       - "Outdoors - Gym, Badminton"
       - "Socializing and Networking"
-      - "LeetCode Problem-Solving"
+      - "Movies, TV Shows, Sci-Fi/Thriller/Action"
