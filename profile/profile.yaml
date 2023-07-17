@@ -13,29 +13,33 @@ summary: I'm a Software Developer leveraging 2+ years of work experience in Web 
 skills:
   # At least 5 skills
   proficient:
-    - Java
-    - Spring Boot
+    - JavaScript
+    - Angular
+    - Node.js/Express
+    - TypeScript
+    - Testing - Jest and Cypress
     - Linux/Bash
     - MySQL/SQL
+    - Docker
     - Agile/Scrum
     - Git
     - HTML
     - CSS
   # At least 5 skills
   competent:
-    - JavaScript
-    - Python
+    - Java
+    - Spring boot
     - gRPC framework
-    - Maven build tool
     - REST APIs
     - Microservices and Distributed Systems
     - MongoDB
     - AWS
   # At least 5 skills
   familiar:
+    - Python
+    - Maven build tool
     - High Level Designing and Software Architecture
     - React.js
-    - Typescript
     - Jenkins
     - Kubernetes
 

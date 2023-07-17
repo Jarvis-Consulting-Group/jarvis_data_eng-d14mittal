@@ -4,11 +4,11 @@ I'm a Software Developer leveraging 2+ years of work experience in Web Applicati
 
 ## Skills
 
-**Proficient:** Java, Spring Boot, Linux/Bash, MySQL/SQL, Agile/Scrum, Git, HTML, CSS
+**Proficient:** JavaScript, Angular, Node.js/Express, TypeScript, Testing - Jest and Cypress, Linux/Bash, MySQL/SQL, Docker, Agile/Scrum, Git, HTML, CSS
 
-**Competent:** JavaScript, Python, gRPC framework, Maven build tool, REST APIs, Microservices and Distributed Systems, MongoDB, AWS
+**Competent:** Java, Spring boot, gRPC framework, REST APIs, Microservices and Distributed Systems, MongoDB, AWS
 
-**Familiar:** High Level Designing and Software Architecture, React.js, Typescript, Jenkins, Kubernetes
+**Familiar:** Python, Maven build tool, High Level Designing and Software Architecture, React.js, Jenkins, Kubernetes
 
 ## Jarvis Projects
 
