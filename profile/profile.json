@@ -84,27 +84,31 @@
   ],
   "skills": {
     "competent": [
-      "JavaScript",
-      "Python",
+      "Java",
+      "Spring boot",
       "gRPC framework",
-      "Maven build tool",
       "REST APIs",
       "Microservices and Distributed Systems",
       "MongoDB",
       "AWS"
     ],
     "familiar": [
+      "Python",
+      "Maven build tool",
       "High Level Designing and Software Architecture",
       "React.js",
-      "Typescript",
       "Jenkins",
       "Kubernetes"
     ],
     "proficient": [
-      "Java",
-      "Spring Boot",
+      "JavaScript",
+      "Angular",
+      "Node.js/Express",
+      "TypeScript",
+      "Testing - Jest and Cypress",
       "Linux/Bash",
       "MySQL/SQL",
+      "Docker",
       "Agile/Scrum",
       "Git",
       "HTML",
