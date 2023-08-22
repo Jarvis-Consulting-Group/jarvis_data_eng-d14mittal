@@ -13,12 +13,12 @@
   "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-d14mittal",
   "highlighted_projects": [
     {
-      "description": "Built a back-end microservices architecture retrieving a user's movie rating and movie info from the internal data collection set via API into consolidated data. Implemented service discovery and microservice registry using Eureka for service registry and load balancing.",
+      "description": "Built a back-end microservices architecture with Spring boot fetching the movie-ratings and movie-info from different microservices stored in the internal Collection Framework List via API into consolidated data. Implemented service discovery and microservice registry using Eureka for service registry and load balancing.",
       "git_url": "https://github.com/d14mittal/Movie-Ratings-Microservice-Application",
       "name": "Movie Catalog System with Microservices"
     },
     {
-      "description": "Developed a full-Stack application maintaining the record of employees in a company. The projects aims to store vital information of an employee in a MySQL database and allowing the user to interact with a user interface built using React.js. The backend services/REST API have been handled using the Spring boot and Spring Data JPA.",
+      "description": "Developed a full-Stack application maintaining the record of employees in a company with backend services using Spring boot and Spring Data JPA. The project aims to store vital information of an employee in a MySQL database and allow the user to interact with a user interface built using React.js.#List of professional experience",
       "git_url": "https://github.com/d14mittal/Employee-Management-System",
       "name": "Employee Management System"
     }
@@ -28,6 +28,16 @@
       "description": "Built a Linux Cluster Monitoring Application used for collecting and monitoring the hardware-related data of virtual machines. Implemented the application with Bash Scripts, PostgreSQL and Docker Technologies. We created a docker container using the psql_docker.sh running Postgre:Alpine-9.6 and provisioned a PSQL instance CLI in our system. The ddl.sql script is responsible for connecting to the host_agent, creating the host_info and host_usage tables. The host_info.sh and host_usage.sh are fetching the hardware specs and real-time data with bash scripting and inserting data into the database tables. Configured the crontab as well to capture real-time data every minute.",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
+    },
+    {
+      "description": "The main objective of this project is to efficiently analyze and evaluate the usage and demand of the club's facilities using the provided dataset. To achieve this, we will be using PostgreSQL, a widely-used and powerful relational database management system. This project focuses on a recently established country club and its comprehensive dataset. Throughout the project, we will explore various SQL queries and statements to extract valuable insights from the dataset. Tasks such as adding new facilities, correcting data entry errors, retrieving specific information, and generating informative reports will be performed. By leveraging SQL and our understanding of the dataset, we uncover valuable insights into facility usage patterns and member behaviour.",
+      "git_url": "/sql",
+      "name": "SQL Project"
+    },
+    {
+      "description": "The primary objective was to develop a robust JDBC application that allows users to perform CRUD operations on the database, leveraging the powerful JDBC API. It incorporates a PostgreSQL database within a Docker container setting, employing Maven as the tool for managing packages and resolving dependencies, and opting for Git as the designated version control system.",
+      "git_url": "/data_access",
+      "name": "JDBC App"
     }
   ],
   "name": "Dhruv Mittal",
@@ -49,9 +59,8 @@
     },
     {
       "bullets": [
-        "Love to have an active lifestyle and enjoying the outdoor activities like travelling, camping and trekking.",
-        "I like meeting with new people and learning something new from everyone's experience. So I engage in networking and socializing activities over the weekend. ",
-        "Movies, TV Shows especially with genre with Sci-Fi/Thriller is a must on Saturday."
+        "Volunteered at Habitat for Humanity Non-Profit Organization for environmental causes by participating in reuse and recycle activities and quality assurance.",
+        "Participated in Event Management activities at VIT University for the Annual Fest Concert Event and Merchandise distribution. "
       ],
       "title": "Activities/Hobbies"
     }
@@ -59,13 +68,13 @@
   "professional_experience": [
     {
       "company": "Jarvis Consulting Group",
-      "description": "Facilitated development of a full-stack application using technologies like React.js, Spring boot, REST API, Microservices, PostgreSQL, following the best Design-patterns and SDLC methodologies. Contributed to application deployment on Cloud and worked on DevOps Operation for Continuous Integration and Delivery. Extensively worked with the team and the tech lead to solve the challenges and derive technical solutions.",
+      "description": "Facilitated development of a full-stack application using technologies like React.js, Spring boot, REST API, Microservices, PostgreSQL, following the best Design-patterns and SDLC methodologies. Contributed to application deployment on Cloud and worked on DevOps Operations for Continuous Integration and Delivery. Extensively worked with the team and the tech lead to solve the challenges and derive technical solutions.",
       "duration": "2023-present",
       "title": "Software Developer"
     },
     {
       "company": "Technowiz IT Services",
-      "description": "Built an E-commerce App with 35% annual revenue growth following Agile development methodologies / Scrum processes. Developed highly scalable environment using Spring Cloud and AWS Lambda serverless reducing company expenses by 33%. Reduced 80% of bugs by troubleshooting, debugging, and designing efficient, reusable, and reliable code for performance.",
+      "description": "Developed an E-commerce application with a highly scalable environment using Spring Cloud and AWS Lambda serverless reducing company expenses by 33%. Built a frontend interface with technologies like HTML, CSS and React.js library. Reduced 80% of bugs by troubleshooting, debugging, and designing efficient, reusable, and reliable code for performance.",
       "duration": "2022-2023",
       "title": "Software Developer"
     },
@@ -84,36 +93,32 @@
   ],
   "skills": {
     "competent": [
-      "Java",
-      "Spring boot",
-      "gRPC framework",
-      "REST APIs",
-      "Microservices and Distributed Systems",
+      "JavaScript",
+      "Angular",
+      "React.js",
+      "Node.js/Express",
+      "TypeScript",
+      "Jest and Cypress",
       "MongoDB",
       "AWS"
     ],
     "familiar": [
       "Python",
-      "Maven build tool",
-      "High Level Designing and Software Architecture",
-      "React.js",
+      "System Design",
       "Jenkins",
-      "Kubernetes"
+      "Kubernetes",
+      "CI/CD"
     ],
     "proficient": [
-      "JavaScript",
-      "Angular",
-      "Node.js/Express",
-      "TypeScript",
-      "Testing - Jest and Cypress",
+      "Java",
+      "Spring Framework",
       "Linux/Bash",
       "MySQL/SQL",
       "Docker",
       "Agile/Scrum",
-      "Git",
       "HTML",
       "CSS"
     ]
   },
-  "summary": "I'm a Software Developer leveraging 2+ years of work experience in Web Application and Software Development, delivering complex application systems and converting business requirements into technical solutions. I have a Bachelors Degree in Computer Science where I have covered fundamentals and advanced topics such as Data Structures, Database Management, Distributed Computing, Operating Systems, Algorithms and more. I have prominent experience working with Java, Spring boot, gRPC framework, Docker, Linux, JavaScript Technologies and contributed to Application Performance Monitoring and Ecommerce projects. The software industry is powerful as it can solve real-world problems and challenges which makes me passionate about technology, innovation and creation."
+  "summary": "I'm a Software Developer leveraging 2+ years of work experience in Web Application and Software Development, delivering complex application systems and converting business requirements into technical solutions. I have a Bachelors Degree in Computer Science where I have covered fundamentals and advanced topics such as Data Structures, Database Management, Distributed Computing, Operating Systems, Algorithms and more. I have prominent experience working with Java, Spring boot, gRPC framework, Docker, Linux, JavaScript, Angular, Node.js, React and Express and contributed to Application Performance Monitoring and Ecommerce projects. The software industry is powerful as it can solve real-world problems and challenges which makes me passionate about technology, innovation and creation."
 }
