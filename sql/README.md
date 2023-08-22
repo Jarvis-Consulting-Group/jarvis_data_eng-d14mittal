@@ -1,10 +1,10 @@
 # Introduction
 
-The focus of this project is on a recently established country club and its comprehensive dataset. The dataset includes information about club members, details of amenities available at the club, and records of bookings made for these amenities.
+This project focuses on a recently established country club and its comprehensive dataset. The dataset includes information about club members, details of amenities available, and records of bookings made for these amenities.
 
-The main objective of this project is to efficiently analyze and evaluate the usage and demand of the club's facilities using the provided dataset. To achieve this, we will be using PostgresSQL, a widely-used and powerful relational database management system. To understand the structure and relationships within the dataset, an entity-relationship diagram has been provided. This diagram visually represents the tables and their connections, serving as a useful reference for understanding the database schema and guiding the analysis process.
+The main objective of this project is to efficiently analyze and evaluate the usage and demand of the club's facilities using the provided dataset. To achieve this, we will be using PostgreSQL, a widely-used and powerful relational database management system. This diagram visually represents the tables and their connections, serving as a useful reference for understanding the database schema and guiding the analysis process.
 
-Throughout the project, we will explore various SQL queries and statements to extract valuable insights from the dataset. Tasks such as adding new facilities, correcting data entry errors, retrieving specific information, and generating informative reports will be performed. By leveraging SQL and our understanding of the dataset, our aim is to uncover valuable insights into facility usage patterns and member behavior.
+Throughout the project, we will explore various SQL queries and statements to extract valuable insights from the dataset. Tasks such as adding new facilities, correcting data entry errors, retrieving specific information, and generating informative reports will be performed. By leveraging SQL and our understanding of the dataset, our aim is to uncover valuable insights into facility usage patterns and member behaviour.
 
 ## DDL STATEMENTS
 
