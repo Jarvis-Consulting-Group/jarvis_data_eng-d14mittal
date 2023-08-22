@@ -30,7 +30,7 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 ## Professional Experiences
 
-**Software Developer, Jarvis Consulting Group (2023-present)**: Developed an E-commerce application with a highly scalable environment using Spring Cloud and AWS Lambda serverless reducing company expenses by 33%. Built a frontend interface with technologies like HTML, CSS and React.js library. Reduced 80% of bugs by troubleshooting, debugging, and designing efficient, reusable, and reliable code for performance.
+**Software Developer, Jarvis Consulting Group (2023-present)**: Facilitated development of a full-stack application using technologies like React.js, Spring boot, REST API, Microservices, PostgreSQL, following the best Design-patterns and SDLC methodologies. Contributed to application deployment on Cloud and worked on DevOps Operations for Continuous Integration and Delivery. Extensively worked with the team and the tech lead to solve the challenges and derive technical solutions.
 
 **Software Developer, Technowiz IT Services (2022-2023)**: Developed an E-commerce application with a highly scalable environment using Spring Cloud and AWS Lambda serverless reducing company expenses by 33%. Built a frontend interface with technologies like HTML, CSS and React.js library. Reduced 80% of bugs by troubleshooting, debugging, and designing efficient, reusable, and reliable code for performance.
 

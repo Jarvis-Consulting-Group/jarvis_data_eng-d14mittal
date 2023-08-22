@@ -78,7 +78,7 @@ professional_experience:
     company: "Jarvis Consulting Group"
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Developed an E-commerce application with a highly scalable environment using Spring Cloud and AWS Lambda serverless reducing company expenses by 33%. Built a frontend interface with technologies like HTML, CSS and React.js library. Reduced 80% of bugs by troubleshooting, debugging, and designing efficient, reusable, and reliable code for performance.
+    description: Facilitated development of a full-stack application using technologies like React.js, Spring boot, REST API, Microservices, PostgreSQL, following the best Design-patterns and SDLC methodologies. Contributed to application deployment on Cloud and worked on DevOps Operations for Continuous Integration and Delivery. Extensively worked with the team and the tech lead to solve the challenges and derive technical solutions.
 
   - title: "Software Developer"
     company: "Technowiz IT Services"
