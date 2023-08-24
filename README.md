@@ -4,11 +4,13 @@ I'm a Software Developer leveraging 2+ years of work experience in Web Applicati
 
 ## Skills
 
+
 **Proficient:** Java, Spring Framework, Linux/Bash, MySQL/SQL, Docker, Agile/Scrum, HTML, CSS
 
 **Competent:** JavaScript, Angular, React.js, Node.js/Express, TypeScript, Jest and Cypress, MongoDB, AWS
 
 **Familiar:** Python, System Design, Jenkins, Kubernetes, CI/CD
+
 
 ## Jarvis Projects
 
@@ -54,3 +56,4 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 - Earned Data Structure I, 50 Days Challenge Badge and solved 130+ problems on the LeetCode with Algorithms in Java
 - Volunteered at Habitat for Humanity Non-Profit Organization for environmental causes by participating in reuse and recycle activities and quality assurance.
 - Participated in Event Management activities at VIT University for the Annual Fest Concert Event and Merchandise distribution. 
+
