@@ -15,30 +15,6 @@ mvn clean package
 java -cp target/grep-1.0-SNAPSHOT.jar ca.jrvs.apps.grep.JavaGrepImp '.*pattern.*' <path_to_root_dir> /<path_to_output_file.txt>
 ```
 
-[//]: # (3. Run Java App in Docker Container)
-
-[//]: # (```)
-
-[//]: # ()
-[//]: # (cd core_java/grep)
-
-[//]: # ()
-[//]: # (#Package your java app)
-
-[//]: # (mvn clean package)
-
-[//]: # ()
-[//]: # (#Build Docker Image)
-
-[//]: # (docker build -f Dockerfile -t grep .)
-
-[//]: # ()
-[//]: # (#Run the image in the docker container)
-
-[//]: # (docker run --rm -v `pwd`/data:/data -v `pwd`/log:/log grep .*Romeo.*Juliet.* /data /log/grep.out)
-
-[//]: # (```)
-
 # Implemenation
 Process method pseudocode processing the all the files and matching the patterns, then writing to the output file.
 ### Pseudocode
@@ -56,7 +32,7 @@ fucntion process(){
     
 ```
 
-## Performance Issue
+# Performance Issue
 The application can cause performance issue because of the large data files to process which can lead to OutOfMemoryError.
 The application will load all the resource files in the memory before processing, and if the input file is large it can definitely lead to out of memory errors.
 
