@@ -36,8 +36,13 @@
     },
     {
       "description": "The primary objective was to develop a robust JDBC application that allows users to perform CRUD operations on the database, leveraging the powerful JDBC API. It incorporates a PostgreSQL database within a Docker container setting, employing Maven as the tool for managing packages and resolving dependencies, and opting for Git as the designated version control system.",
-      "git_url": "/data_access",
+      "git_url": "/core_java/jdbc",
       "name": "JDBC App"
+    },
+    {
+      "description": "The Grep app project has been designed to match the Regular Expression pattern from a file and write all the matches to an output file. The project has been implemented using Core Java and Slf4h-log4j dependency for logging purposes. All the dependencies and project build management is handled by Maven build tool. The Grep application can be dockerized with Dockerfile and could easily run on any platform for distribution and deployment.",
+      "git_url": "/core_java/grep",
+      "name": "Grep App"
     }
   ],
   "name": "Dhruv Mittal",
