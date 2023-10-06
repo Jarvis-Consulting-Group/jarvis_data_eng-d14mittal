@@ -1,6 +1,6 @@
---pql -h PSQL_HOST -p 5432 -U postgres jrvstrading -f schema.sql
+-- psql -h PSQL_HOST -p 5432 -U postgres jrvstrading -f schema.sql
 -- Drop table
-\c jrvstrading
+
 DROP TABLE IF EXISTS public.trader cascade;
 DROP TABLE IF EXISTS public.account cascade;
 DROP TABLE IF EXISTS public.security_order cascade;
@@ -63,4 +63,3 @@ SELECT account_id,
 FROM public.security_order
 WHERE status = 'FILLED'
 GROUP BY account_id, ticker;
-
