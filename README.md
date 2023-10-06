@@ -4,13 +4,11 @@ I'm a Software Developer leveraging 2+ years of work experience in Web Applicati
 
 ## Skills
 
-
 **Proficient:** Java, Spring Framework, Linux/Bash, MySQL/SQL, Docker, Agile/Scrum, HTML, CSS
 
-**Competent:** JavaScript, Angular, React.js, Node.js/Express, TypeScript, Jest and Cypress, MongoDB, AWS
+**Competent:** JavaScript, Angular, React.js, Node.js/Express, TypeScript, Python, Jest and Cypress, MongoDB, AWS
 
-**Familiar:** Python, System Design, Jenkins, Kubernetes, CI/CD
-
+**Familiar:** System Design, Jenkins, Kubernetes, CI/CD, RxJava
 
 ## Jarvis Projects
 
@@ -24,6 +22,8 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 **JDBC App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-d14mittal/tree/master/core_java/jdbc)]: The primary objective was to develop a robust JDBC application that allows users to perform CRUD operations on the database, leveraging the powerful JDBC API. It incorporates a PostgreSQL database within a Docker container setting, employing Maven as the tool for managing packages and resolving dependencies, and opting for Git as the designated version control system.
 
 **Grep App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-d14mittal/tree/master/core_java/grep)]: The Grep app project has been designed to match the Regular Expression pattern from a file and write all the matches to an output file. The project has been implemented using Core Java and Slf4h-log4j dependency for logging purposes. All the dependencies and project build management is handled by Maven build tool. The Grep application can be dockerized with Dockerfile and could easily run on any platform for distribution and deployment.
+
+**Springboot Trading App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-d14mittal/tree/master/springboot)]: Integrate a trading platform with a REST API that front-end applications can consume, enabling users to manage client profiles and accounts, monitor portfolio performance, and execute securities trades efficiently. Utilize Java 8 and Spring Boot for the implementation of the REST API, encompassing the platform's core business logic, such as managing trader profiles, executing security orders, and monitoring portfolio performance. Ensure data persistence with a PostgreSQL database. Acquire market data from IEX Cloud, a service that provides free access to market data through its REST API, and incorporate it into the Spring Boot application.
 
 
 ## Highlighted Projects
@@ -56,4 +56,3 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 - Earned Data Structure I, 50 Days Challenge Badge and solved 130+ problems on the LeetCode with Algorithms in Java
 - Volunteered at Habitat for Humanity Non-Profit Organization for environmental causes by participating in reuse and recycle activities and quality assurance.
 - Participated in Event Management activities at VIT University for the Annual Fest Concert Event and Merchandise distribution. 
-

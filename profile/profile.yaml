@@ -28,16 +28,17 @@ skills:
     - React.js
     - Node.js/Express
     - TypeScript
+    - Python
     - Jest and Cypress
     - MongoDB
     - AWS
   # At least 5 skills
   familiar:
-    - Python
     - System Design
     - Jenkins
     - Kubernetes
     - CI/CD
+    - RxJava
 
 # List of Jarvis projects
 jarvis_projects:
@@ -58,6 +59,11 @@ jarvis_projects:
   - name: "Grep App"
     git_url: "/core_java/grep"
     description: The Grep app project has been designed to match the Regular Expression pattern from a file and write all the matches to an output file. The project has been implemented using Core Java and Slf4h-log4j dependency for logging purposes. All the dependencies and project build management is handled by Maven build tool. The Grep application can be dockerized with Dockerfile and could easily run on any platform for distribution and deployment.
+
+  - name: "Springboot Trading App"
+    git_url: "/springboot"
+    description: Integrate a trading platform with a REST API that front-end applications can consume, enabling users to manage client profiles and accounts, monitor portfolio performance, and execute securities trades efficiently. Utilize Java 8 and Spring Boot for the implementation of the REST API, encompassing the platform's core business logic, such as managing trader profiles, executing security orders, and monitoring portfolio performance. Ensure data persistence with a PostgreSQL database. Acquire market data from IEX Cloud, a service that provides free access to market data through its REST API, and incorporate it into the Spring Boot application.
+
 # List of personal or academic projects
 # Feel free to add more projects
 highlighted_projects:
