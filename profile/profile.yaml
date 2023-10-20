@@ -58,7 +58,7 @@ jarvis_projects:
 
   - name: "Grep App"
     git_url: "/core_java/grep"
-    description: The Grep app project has been designed to match the Regular Expression pattern from a file and write all the matches to an output file. The project has been implemented using Core Java and Slf4h-log4j dependency for logging purposes. All the dependencies and project build management is handled by Maven build tool. The Grep application can be dockerized with Dockerfile and could easily run on any platform for distribution and deployment.
+    description: The Grep app project has been designed to match the Regular Expression pattern from a file and write all the matches to an output file. The project has been implemented using Core Java and Slf4j-log4j dependency for logging purposes. All the dependencies and project build management is handled by Maven build tool. The Grep application can be dockerized with Dockerfile and could easily run on any platform for distribution and deployment.
 
   - name: "Springboot Trading App"
     git_url: "/springboot"
